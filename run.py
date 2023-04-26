@@ -1,4 +1,4 @@
-# wo shi sb abcabcabc heiheihei
+# wo shi sb abcabcabc heiheihei gangdu
 # import redis_queue as rq
 # hahahahahah
 # lue lue lue
