@@ -1,4 +1,5 @@
 # wo shi sb abcabcabc
+# import redis_queue as rq
 # lue lue lue
 # abc
 # Test github SyncFork functionality
